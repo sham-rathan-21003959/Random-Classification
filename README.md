@@ -1,5 +1,5 @@
-## EXP.NO: 02
-## DATE  : 
+### EX NO: 01
+### DATE : 
 # <p align='center'>  RANDOM CLASSIFICATION </p>
 ## AIM:
 To write a python program to perform random classification.
